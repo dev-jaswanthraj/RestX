@@ -1,1 +1,3 @@
 *restx_venv/
+*instance/
+*.sqlite3
